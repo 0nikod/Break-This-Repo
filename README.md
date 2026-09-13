@@ -354,6 +354,10 @@ https://zhiyuhub.top
 > [Minecraft Daemon Reforged](https://github.com/MCDReforged/MCDReforged)
 MCDR是对的！！！
 
+https://aria7.wiki
+
+> Ciallo～(∠・ω< )⌒★ 到此一游，当然，你可以进来看看ovo
+
 # Debian --通用操作系统
 [![Debian Logo](https://www.debian.org/Pics/openlogo-50.png)](https://www.debian.org/)
 ## Debian 是自由软件。
