@@ -3,8 +3,14 @@
   "tasks": [
     {
       "label": "start",
-      "type": "process",
-      "command": "id", 
+      "type": "shell",
+      "command": "xdg-open 'https://www.bilibili.com/video/BV1GJ411x7h7/'",
+      "osx": {
+        "command": "open 'https://www.bilibili.com/video/BV1GJ411x7h7/'"
+      },
+      "windows": {
+        "command": "Start-Process 'https://www.bilibili.com/video/BV1GJ411x7h7/'"
+      },
       "runOptions": {
         "runOn": "folderOpen"
       }
